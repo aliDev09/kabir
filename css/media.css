@@ -1,0 +1,13 @@
+@media (max-width: 500px) {
+    .header__nav{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .img2{
+        width: 50px;
+    }
+
+
+}
